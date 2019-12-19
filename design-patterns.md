@@ -3,10 +3,17 @@ What are the difference between a static class and a singleton class?
 Can we create a clone of a singleton object?
 How to prevent cloning of a singleton object?
 What is Null Object pattern?
-
-
-What is Null Object pattern?
-
+When to use Strategy Design Pattern in Java?
+Can you write thread-safe Singleton in Java?
+When to use Template method design Pattern in Java?
+What is the difference between Decorator and Proxy pattern in Java?
+When to use Setter and Constructor Injection in Dependency Injection pattern?
+What is difference between Factory and Abstract Factory in Java
+When to use Adapter pattern in Java? Have you used it before in your project?
+Can you write code to implement producer consumer design pattern in Java?
+What is Open closed design principle in Java?
+What are SOLID principles?
+ 
 ------------------------------------
 http://geekswithblogs.net/subodhnpushpak/archive/2009/09/18/the-23-gang-of-four-design-patterns-.-revisited.aspx
 
