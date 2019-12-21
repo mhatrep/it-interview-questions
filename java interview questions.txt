@@ -23,3 +23,5 @@ What is meant by Serialization?
 What is the purpose of a transient variable?
 Which methods are used during Serialization and Deserialization process?
 What is the purpose of a Volatile Variable?
+Difference between Serialization and Deserialization in Java.
+What is SerialVersionUID?
