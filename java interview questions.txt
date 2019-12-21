@@ -1,0 +1,25 @@
+Difference between String, String Builder, and String Buffer.
+Difference between HashMap and HashTable.
+Difference between HashSet and TreeSet.
+Difference between Abstract class and Interface.
+What is mean by Collections in Java?
+What is meant by Ordered and Sorted in collections?
+Explain about the different lists available in the collection.
+What are the types of Exceptions?
+What are the different ways to handle exceptions?
+Explain about Exception Propagation.
+How do you create a thread in Java?
+Explain about join () method.
+What does yield method of the Thread class do?
+Explain about wait () method.
+Difference between notify() method and notifyAll() method in Java.
+How to stop a thread in java? Explain about sleep () method in a thread?
+When to use Runnable interface Vs Thread class in Java?
+Difference between start() and run() method of thread class.
+Explain thread life cycle in Java.
+What is Synchronization?
+What is the disadvantage of Synchronization?
+What is meant by Serialization?
+What is the purpose of a transient variable?
+Which methods are used during Serialization and Deserialization process?
+What is the purpose of a Volatile Variable?
