@@ -25,3 +25,13 @@ Which methods are used during Serialization and Deserialization process?
 What is the purpose of a Volatile Variable?
 Difference between Serialization and Deserialization in Java.
 What is SerialVersionUID?
+Explain JDK, JRE and JVM?
+Explain public static void main(String args[]) in Java
+Why Java is platform independent?
+Why Java is not 100% Object-oriented?
+What are wrapper classes in Java?
+What are constructors in Java?
+What is singleton class in Java and how can we make a class singleton?
+What is the difference between Array list and vector in Java?
+What is the difference between equals() and == in Java?
+What are the differences between Heap and Stack Memory in Java?
